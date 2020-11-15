@@ -1,0 +1,5 @@
+### Github File Push Ignore
+
+build
+rsrc/*/*.py
+rsrc/mdl/*.mdl
