@@ -36,7 +36,6 @@ struct _CAMERA{
 
 
 
-
 Camera create_camera(float ms,float rs,float x,float y,float z,float rx,float ry,float rz,float zm){
 	Camera o=malloc(sizeof(struct _CAMERA));
 	o->x=x;
